@@ -11,7 +11,7 @@ Its only for testing. Production use is not recommended.
 
 ### Requests
 
-- **TOKEN** is used to get OAuth-Token from shopware More Information: <https://developer.shopware.com/docs/guides/integrations-api/admin-api/authentication>
+**TOKEN** is used to get OAuth-Token from shopware More Information: <https://developer.shopware.com/docs/guides/integrations-api/admin-api/authentication>
 The token is needed to use other requests.
 Example:
 
@@ -24,7 +24,7 @@ The Token will be saved in an file called token. This token-file will be used fo
 
 
 
-- **GET** is used to receive information from your shop. (this request can only be used with an valid token. See TOKEN Request for more details) 
+**GET** is used to receive information from your shop. (this request can only be used with an valid token. See TOKEN Request for more details) 
 The result will be printed and copied to clipboard.
 
 Examples:
@@ -47,7 +47,7 @@ Get product:
 For more examples see:
 <https://developer.shopware.com/docs/guides/integrations-api/admin-api/reading-entities>
 
-- **POST** is used to post new information to your shop. the information need to be an valid json file see ExampleJson directory for examples. (this request can only be used with an valid token. See TOKEN Request for more details)
+**POST** is used to post new information to your shop. the information need to be an valid json file see ExampleJson directory for examples. (this request can only be used with an valid token. See TOKEN Request for more details)
 
 Examples:
 
@@ -77,7 +77,7 @@ for actual image upload:
 ```
 ./cmd.sh IMG https://myShop.de/api/v2/_action/media/media-id/upload?extension=jpg&fileName=amah ./a_salbe.jpg
 ```
-- **PATCH** is used to  updated information in your shop. the information need to be an valid json file see ExampleJson directory for examples. (this request can only be used with an valid token. See TOKEN Request for more details)
+**PATCH** is used to  updated information in your shop. the information need to be an valid json file see ExampleJson directory for examples. (this request can only be used with an valid token. See TOKEN Request for more details)
 
 Example:
 
@@ -86,7 +86,7 @@ update Product:
 ./cmd.sh PATCH https://myShop.de/api/v3/product/521fe769d24c452c90bbe60f96fd1cb1 ./ExampleJson/a_salbe.json
 ```
 
-- **DELETE** is used to  delete information from your shop. (this request can only be used with an valid token. See TOKEN Request for more details)
+**DELETE** is used to  delete information from your shop. (this request can only be used with an valid token. See TOKEN Request for more details)
 
 Example
 
