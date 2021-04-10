@@ -1,0 +1,8 @@
+{
+    "limit": 500,
+    "filter": [{
+        "type": "equals",
+        "field": "order.stateMachineState.technicalName",
+        "value": "open"
+    }]
+}

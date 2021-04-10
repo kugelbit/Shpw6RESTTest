@@ -1,0 +1,23 @@
+{
+    "name": "Packungsgröße",
+    "description": "Packungsgröße des Produktes",
+    "displayType": "text",
+    "sortingType": "alphanumeric",
+    "position": 1,
+    "options": [{
+            "name": "100 ml",
+            "position": 1
+
+        },
+        {
+            "name": "20 ml",
+            "position": 2
+
+        },
+        {
+            "name": "3x20 ml",
+            "position": 3
+
+        }
+    ]
+}

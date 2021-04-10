@@ -1,0 +1,79 @@
+{
+    "stock": 10,
+    "productNumber": "8042061",
+    "id": "860ad76b40764e8cb30d9121b8bacf44",
+    "name": "Arhama®-Salbe",
+    "description": "<b>Arhama ® -Salbe</b> ist eine natürliche kosmetische Pflegesalbe aus Leinöl und Bienenwachs. Arhama ® -<br>Salbe unterstützt die Hautregeneration bei geröteter Haut, trockenen und rissigen Hautstellen,<br>Narben und vernarbten Hautstellen sowie Haut im Wundrandbereich. Ob zu Hause oder im Urlaub –<br>wenn die Haut Unterstützung braucht, ist Arhama ® -Salbe immer ein zuverlässiger Begleiter. Auch für<br>Kinder ist Arhama ® -Salbe gut geeignet.",
+    "keywords": "Pflegesalbe, Haut, Arhama, Salbe, Leinöl, Bienenwachs, Hautschutz, Hautregeneration, Wunden, Narben, Haut, trocken, rissig, Sonnenbrand, Kälte, natürlich, pflanzlich, Narbenpflege, Arhama Salbe, Wundrandbereich, Lippen, Haut eingerissen",
+    "metaTitle": "Bombastus Meta",
+    "metaDescription": "",
+    "customFields": null,
+    "taxId": "",
+    "price": [{
+        "currencyId": "",
+        "net": 1,
+        "gross": 1,
+        "linked": true
+    }],
+    "configuratorGroupConfig": [{
+        "id": "",
+        "representation": "box",
+        "expressionForListings": false
+    }],
+    "properties": [
+        { "id": "" },
+        { "id": "" },
+        { "id": "" }
+    ],
+    "children": [{
+            "productNumber": "80420604",
+            "customFields": { "custom_pr_data_pzn": "12345678" },
+            "stock": 10,
+            "price": [{
+                "currencyId": "",
+                "net": 1,
+                "gross": 1,
+                "linked": true
+            }],
+            "options": [
+                { "id": "" }
+            ]
+        },
+        {
+            "productNumber": "80420606",
+            "stock": 10,
+            "price": [{
+                "currencyId": "",
+                "net": 1,
+                "gross": 1,
+                "linked": true
+            }],
+            "options": [
+                { "id": "" }
+            ]
+        },
+        {
+            "productNumber": "80420603",
+            "stock": 10,
+            "price": [{
+                "currencyId": "",
+                "net": 1,
+                "gross": 1,
+                "linked": true
+            }],
+            "options": [
+                { "id": "" }
+            ]
+        }
+    ],
+    "categories": [
+        { "id": "" },
+        { "id": "" },
+        { "id": "" }
+    ],
+    "configuratorSettings": [
+        { "optionId": "" },
+        { "optionId": "" },
+        { "optionId": "" }
+    ]
+}
